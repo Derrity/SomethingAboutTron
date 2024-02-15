@@ -1,0 +1,3 @@
+[submodule "generateAddress"]
+	path = generateAddress
+	url = https://github.com/Derrity/generateAddress.git

@@ -1,0 +1,6 @@
+/Users/sunbo/Desktop/SomethingAboutTron/cmake-build-debug/CMakeFiles/checktronbalance.dir
+/Users/sunbo/Desktop/SomethingAboutTron/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sunbo/Desktop/SomethingAboutTron/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sunbo/Desktop/SomethingAboutTron/cmake-build-debug/generateAddress/CMakeFiles/bitaddress.dir
+/Users/sunbo/Desktop/SomethingAboutTron/cmake-build-debug/generateAddress/CMakeFiles/edit_cache.dir
+/Users/sunbo/Desktop/SomethingAboutTron/cmake-build-debug/generateAddress/CMakeFiles/rebuild_cache.dir
