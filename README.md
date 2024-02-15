@@ -10,8 +10,6 @@
 
 ## Before
 
-**You Must have Blockchair API Key**
-
 1. Clone this repository
 
    ```bash
