@@ -60,8 +60,8 @@ mkdir -p build
 cd build 
 cmake ..
 make -j
-chmod +x checkbitbalance
-mv checkbitbalance ..
+chmod +x checktronbalance
+mv checktronbalance ..
 
 cd ..
-echo -e "\033[0;32m Done! \033[0m Run ./server to start the server"
+echo -e "\033[0;32m Done! \033[0m Run ./checktronbalance to start the server"
